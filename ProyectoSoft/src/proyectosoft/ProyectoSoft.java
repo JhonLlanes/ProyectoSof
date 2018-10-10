@@ -20,6 +20,9 @@ public class ProyectoSoft {
         int b =0;
         System.out.println("Kleber Pucha");
         int suma = a+b;
+        int resta = a-b;
+        System.err.println(resta);
+        System.err.println("JhonLlanes");
     }
     
 }
