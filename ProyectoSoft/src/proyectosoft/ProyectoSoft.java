@@ -14,8 +14,12 @@ public class ProyectoSoft {
     /**
      * @param args the command line arguments
      */
+    @SuppressWarnings("empty-statement")
     public static void main(String[] args) {
-        // TODO code application logic here
+        int a =0;
+        int b =0;
+        System.out.println("Kleber Pucha");
+        int suma = a+b;
     }
     
 }
